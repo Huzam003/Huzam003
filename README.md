@@ -1,64 +1,47 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Huzam+%F0%9F%91%8B;Cyber+Security+Student;Penetration+Tester+in+Training;Bug+Bounty+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Huzaifah+%F0%9F%91%8B;Cyber+Security+Student;EDR+Developer;Penetration+Tester+in+Training;Bug+Bounty+Explorer)](https://git.io/typing-svg)
+
+[![Huzam's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Huzam003&theme=tokyonight&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 🧑💻 About Me
+## 🧑💻 Professional Overview
 
-I'm a **Cyber Security Student (BS-CYS, 4th Semester)** with a deep passion for offensive security, penetration testing, and building secure applications.
+I'm a **Cyber Security Student (BS-CYS, 4th Semester)** dedicated to mastering offensive security, defensive engineering, and low-level system internals.
 
-- 🔭 Currently refining my **Behavioral EDR System** and exploring advanced process internals
-- 🌱 Actively learning Ethical Hacking & sharpening my offensive security skills
-- 🐛 Exploring bug bounty programs and hunting for real-world vulnerabilities
-- 😄 Pronouns: He/Him
+- 🛡️ **Currently Pursuing**: [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
+- 🧪 **Active Hacking**: Solving rooms and learning paths on [TryHackMe](https://tryhackme.com/p/huzam003)
+- 🔭 **Core Project**: Architecting a **Behavioral EDR System** at the process internal level.
+- 🌱 **Growth Mindset**: Deep-diving into Windows Internals and memory corruption.
 
 ---
 
-## 🛡️ Areas of Interest
+## 🛠️ Cyber Security Toolbox
 
-- **Defensive Security & EDR Development** — Building tools to detect and stop advanced threats
-- **Red Teaming & Penetration Testing** — Exploring vulnerabilities and securing systems
-- **Bug Bounty** — Hunting security flaws to help make the web safer
-- **Low-Level Security** — Process internals, memory, and shellcode techniques
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **Offensive** | ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?logo=burpsuite&logoColor=white) ![Nmap](https://img.shields.io/badge/-Nmap-004170?logo=nmap&logoColor=white) ![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?logo=metasploit&logoColor=white) ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kalilinux) |
+| **Defensive** | ![EDR](https://img.shields.io/badge/-EDR_Development-00F7FF?style=flat) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white) ![SysInternals](https://img.shields.io/badge/-SysInternals-gray) |
+| **Engineering** | ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter) |
+| **Low-Level** | ![Asm](https://img.shields.io/badge/-x86_/_x64-6E4C13?logo=processor) ![WinAPI](https://img.shields.io/badge/-WinAPI-blue) ![Memory_Forensics](https://img.shields.io/badge/-Memory_Forensics-red) |
 
 ---
 
 ## 🚀 Featured Projects
 
 | Project | Description |
-|--------|-------------|
-| 🛡️ [Endpoint-Detection-and-Response-System](https://github.com/Huzam003/Endpoint-Detection-and-Response-System) | Professional-grade Windows EDR system using C++ (Graphs/BFS) and Python dashboards |
-| 📡 [mesh-chat-system](https://github.com/Huzam003/mesh-chat-system) | A secure, E2EE decentralized mesh messenger with multi-hop routing and a premium glassmorphism UI |
-| 💉 [APC-Process-Injection-Tool](https://github.com/Huzam003/APC-Process-Injection-Tool) | Low-level exploration of Windows process injection techniques |
-| 💳 [flutter-fintech-wallet-ui](https://github.com/Huzam003/flutter-fintech-wallet-ui) | A premium, high-fidelity digital wallet mockup built with Flutter |
-| 🧩 [digital-escape-room](https://github.com/Huzam003/digital-escape-room) | An interactive OOP-based challenge project |
+| :--- | :--- |
+| 🛡️ [EDR-System](https://github.com/Huzam003/Endpoint-Detection-and-Response-System) | Professional-grade Windows EDR using C++ (Graphs/BFS) and Python analytics. |
+| 📡 [mesh-chat-system](https://github.com/Huzam003/mesh-chat-system) | **RSA-2048 E2EE** decentralized messenger with multi-hop mesh routing. |
+| 💉 [APC-Injection](https://github.com/Huzam003/APC-Process-Injection-Tool) | Low-level C++ tool exploring Windows APC process injection techniques. |
+| 💳 [fintech-wallet](https://github.com/Huzam003/flutter-fintech-wallet-ui) | High-fidelity digital wallet UI built with Flutter/Dart. |
 
 ---
 
-## 🛠️ My Toolbox
-
-**Languages**
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-x86%2Fx64-6E4C13?style=for-the-badge&logo=processor&logoColor=white)
-
-**Frameworks & Tools**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+## 📊 Analytics & Impact
 
 <div align="center">
 
@@ -76,6 +59,7 @@ I'm a **Cyber Security Student (BS-CYS, 4th Semester)** with a deep passion for 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/huzaifah-naeem)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huzam003@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Hacking-active?style=for-the-badge&logo=tryhackme&logoColor=white)](YOUR_TRYHACKME_LINK_HERE)
 
 ---
 
