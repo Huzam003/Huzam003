@@ -2,7 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Huzaifah+%F0%9F%91%8B;Cyber+Security+Student;EDR+Developer;Penetration+Tester+in+Training;Bug+Bounty+Explorer)](https://git.io/typing-svg)
 
-[![Huzam's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Huzam003&theme=tokyonight&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,py,dart,flutter,kali,linux,bash,git,docker,powershell,mysql,postman" />
+</div>
 
 </div>
 
