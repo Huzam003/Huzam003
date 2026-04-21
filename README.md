@@ -6,11 +6,11 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑💻 About Me
 
 I'm a **Cyber Security Student (BS-CYS, 4th Semester)** with a deep passion for offensive security, penetration testing, and building secure applications.
 
-- 🔭 Currently building a personal long-term application development project
+- 🔭 Currently refining my **Behavioral EDR System** and exploring advanced process internals
 - 🌱 Actively learning Ethical Hacking & sharpening my offensive security skills
 - 🐛 Exploring bug bounty programs and hunting for real-world vulnerabilities
 - 😄 Pronouns: He/Him
@@ -19,9 +19,9 @@ I'm a **Cyber Security Student (BS-CYS, 4th Semester)** with a deep passion for 
 
 ## 🛡️ Areas of Interest
 
+- **Defensive Security & EDR Development** — Building tools to detect and stop advanced threats
 - **Red Teaming & Penetration Testing** — Exploring vulnerabilities and securing systems
 - **Bug Bounty** — Hunting security flaws to help make the web safer
-- **Mobile & App Security** — Developing and auditing secure mobile experiences
 - **Low-Level Security** — Process internals, memory, and shellcode techniques
 
 ---
@@ -30,8 +30,9 @@ I'm a **Cyber Security Student (BS-CYS, 4th Semester)** with a deep passion for 
 
 | Project | Description |
 |--------|-------------|
-| 💳 [flutter-fintech-wallet-ui](https://github.com/Huzam003/flutter-fintech-wallet-ui) | A premium, high-fidelity digital wallet mockup built with Flutter |
+| 🛡️ [Endpoint-Detection-and-Response-System](https://github.com/Huzam003/Endpoint-Detection-and-Response-System) | Professional-grade Windows EDR system using C++ (Graphs/BFS) and Python dashboards |
 | 💉 [APC-Process-Injection-Tool](https://github.com/Huzam003/APC-Process-Injection-Tool) | Low-level exploration of Windows process injection techniques |
+| 💳 [flutter-fintech-wallet-ui](https://github.com/Huzam003/flutter-fintech-wallet-ui) | A premium, high-fidelity digital wallet mockup built with Flutter |
 | 🧩 [digital-escape-room](https://github.com/Huzam003/digital-escape-room) | An interactive OOP-based challenge project |
 
 ---
@@ -40,9 +41,9 @@ I'm a **Cyber Security Student (BS-CYS, 4th Semester)** with a deep passion for 
 
 **Languages**
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-x86%2Fx64-6E4C13?style=for-the-badge&logo=processor&logoColor=white)
 
 **Frameworks & Tools**
