@@ -31,6 +31,7 @@ I'm a **Cyber Security Student (BS-CYS, 4th Semester)** with a deep passion for 
 | Project | Description |
 |--------|-------------|
 | 🛡️ [Endpoint-Detection-and-Response-System](https://github.com/Huzam003/Endpoint-Detection-and-Response-System) | Professional-grade Windows EDR system using C++ (Graphs/BFS) and Python dashboards |
+| 📡 [mesh-chat-system](https://github.com/Huzam003/mesh-chat-system) | A secure, E2EE decentralized mesh messenger with multi-hop routing and a premium glassmorphism UI |
 | 💉 [APC-Process-Injection-Tool](https://github.com/Huzam003/APC-Process-Injection-Tool) | Low-level exploration of Windows process injection techniques |
 | 💳 [flutter-fintech-wallet-ui](https://github.com/Huzam003/flutter-fintech-wallet-ui) | A premium, high-fidelity digital wallet mockup built with Flutter |
 | 🧩 [digital-escape-room](https://github.com/Huzam003/digital-escape-room) | An interactive OOP-based challenge project |
