@@ -2,9 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Huzaifah+%F0%9F%91%8B;Cyber+Security+Student;EDR+Developer;Penetration+Tester+in+Training;Bug+Bounty+Explorer)](https://git.io/typing-svg)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,dart,flutter,kali,linux,bash,git,docker,powershell,mysql,postman" />
-</div>
+<img src="https://skillicons.dev/icons?i=cpp,py,dart,flutter,kali,linux,bash,git,docker,powershell,mysql,postman" />
 
 </div>
 
@@ -39,6 +37,7 @@ I'm a **Cyber Security Student (BS-CYS, 4th Semester)** dedicated to mastering o
 | 🛡️ [EDR-System](https://github.com/Huzam003/Endpoint-Detection-and-Response-System) | Professional-grade Windows EDR using C++ (Graphs/BFS) and Python analytics. |
 | 📡 [mesh-chat-system](https://github.com/Huzam003/mesh-chat-system) | **RSA-2048 E2EE** decentralized messenger with multi-hop mesh routing. |
 | 💉 [APC-Injection](https://github.com/Huzam003/APC-Process-Injection-Tool) | Low-level C++ tool exploring Windows APC process injection techniques. |
+| 🧩 [digital-escape-room](https://github.com/Huzam003/digital-escape-room) | An interactive challenge project exploring OOP logic and puzzle design. |
 | 💳 [fintech-wallet](https://github.com/Huzam003/flutter-fintech-wallet-ui) | High-fidelity digital wallet UI built with Flutter/Dart. |
 
 ---
