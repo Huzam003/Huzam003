@@ -30,6 +30,8 @@ I'm a **Cyber Security Student (BS-CYS, 4th Semester)** focused on offensive sec
 | 🛡️ [EDR-System](https://github.com/Huzam003/Endpoint-Detection-and-Response-System) | **Defensive**: Windows EDR using C++ (Graphs/BFS) and Python analytics |
 | 📡 [mesh-chat-system](https://github.com/Huzam003/mesh-chat-system) | **Cryptography**: RSA-2048 E2EE decentralized messenger with mesh routing |
 | 💉 [APC-Injection](https://github.com/Huzam003/APC-Process-Injection-Tool) | **Exploitation**: Low-level C++ tool exploring Windows APC process injection |
+| 💳 [flutter-fintech-wallet-ui](https://github.com/Huzam003/flutter-fintech-wallet-ui) | **Mobile**: Premium, high-fidelity digital wallet mockup built with Flutter |
+| 🧩 [digital-escape-room](https://github.com/Huzam003/digital-escape-room) | **OOP**: Interactive escape room challenge project built with object-oriented design |
 
 ---
 
