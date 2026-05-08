@@ -17,7 +17,7 @@ I'm a **Cyber Security Student (BS-CYS, 4th Semester)** focused on offensive sec
 
 - 🛡️ **Focus**: Offensive Security, Windows Internals, and EDR Development
 - 🌱 **Currently Deep-Diving**: Windows Kernel Debugging (WinDbg) & Memory Forensics
-- 🧪 **Active Hacking**: Ranked on [TryHackMe](https://tryhackme.com/p/huzam003) 
+- 🧪 **Active Hacking**: Ranked on [TryHackMe](https://tryhackme.com/p/huzam003)
 - 🔭 **Core Project**: Architecting a **Behavioral EDR System** at the process internal level
 
 ---
@@ -54,17 +54,9 @@ I'm a **Cyber Security Student (BS-CYS, 4th Semester)** focused on offensive sec
 
 ---
 
-## 📊 Analytics & Impact
+## ⚡ Philosophy
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Huzam003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzam003&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://streak-stats.demolab.com?user=Huzam003&theme=tokyonight&hide_border=true" />
-
-</div>
+> Build tools. Break systems. Understand both deeply enough to defend them.
 
 ---
 
