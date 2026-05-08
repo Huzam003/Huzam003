@@ -11,7 +11,7 @@
 
 ---
 
-## 🧑💻 Professional Overview
+## 🧑‍💻 Professional Overview
 
 I'm a **Cyber Security Student (BS-CYS, 4th Semester)** focused on offensive security, defensive engineering, and low-level system internals. I specialize in bridging the gap between high-level application development and low-level system exploitation.
 
@@ -25,6 +25,7 @@ I'm a **Cyber Security Student (BS-CYS, 4th Semester)** focused on offensive sec
 ## 🚀 Featured Projects
 
 ### 🛡️ Cyber Security & Low-Level
+
 | Project | Description |
 | :--- | :--- |
 | [EDR-System](https://github.com/Huzam003/Endpoint-Detection-and-Response-System) | **Defensive**: Windows EDR using C++ (Graphs/BFS) and Python analytics |
@@ -32,6 +33,7 @@ I'm a **Cyber Security Student (BS-CYS, 4th Semester)** focused on offensive sec
 | [mesh-chat-system](https://github.com/Huzam003/mesh-chat-system) | **Cryptography**: RSA-2048 E2EE decentralized messenger with mesh routing |
 
 ### 💳 Fintech & Full-Stack
+
 | Project | Description |
 | :--- | :--- |
 | [STORE-APP](https://github.com/Huzam003/STORE-APP) | **Merchant Management**: Premium Flutter B2B platform with KYC scanning & OCR |
@@ -56,11 +58,11 @@ I'm a **Cyber Security Student (BS-CYS, 4th Semester)** focused on offensive sec
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Huzam003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Huzam003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Huzam003&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzam003&layout=compact&theme=tokyonight&hide_border=true" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Huzam003&theme=tokyonight&hide_border=true&cache_seconds=1800)
+<img height="180em" src="https://streak-stats.demolab.com?user=Huzam003&theme=tokyonight&hide_border=true" />
 
 </div>
 
