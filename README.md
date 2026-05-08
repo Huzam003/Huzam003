@@ -15,24 +15,29 @@
 
 I'm a **Cyber Security Student (BS-CYS, 4th Semester)** focused on offensive security, defensive engineering, and low-level system internals. I specialize in bridging the gap between high-level application development and low-level system exploitation.
 
-- 🛡️ **Currently Pursuing**: [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
-- 🧪 **Active Hacking**: Solving rooms and learning paths on [TryHackMe](https://tryhackme.com/p/huzam003)
+- 🛡️ **Focus**: Offensive Security, Windows Internals, and EDR Development
+- 🌱 **Currently Deep-Diving**: Windows Kernel Debugging (WinDbg) & Memory Forensics
+- 🧪 **Active Hacking**: Ranked on [TryHackMe](https://tryhackme.com/p/huzam003) 
 - 🔭 **Core Project**: Architecting a **Behavioral EDR System** at the process internal level
-- 🌱 **Growth Mindset**: Deep-diving into Windows Internals and memory corruption
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🛡️ Cyber Security & Low-Level
 | Project | Description |
 | :--- | :--- |
-| 🏬 [STORE-APP](https://github.com/Huzam003/STORE-APP) | **Fintech B2B**: Premium Flutter-based Merchant Management & Payout platform with KYC & OCR |
-| 📈 [Dynamic-Capital](https://github.com/Huzam003/trading-platform) | **Trading Platform**: Full-stack engineering with Next.js 15, Prisma, and Neon DB |
-| 🛡️ [EDR-System](https://github.com/Huzam003/Endpoint-Detection-and-Response-System) | **Defensive**: Windows EDR using C++ (Graphs/BFS) and Python analytics |
-| 📡 [mesh-chat-system](https://github.com/Huzam003/mesh-chat-system) | **Cryptography**: RSA-2048 E2EE decentralized messenger with mesh routing |
-| 💉 [APC-Injection](https://github.com/Huzam003/APC-Process-Injection-Tool) | **Exploitation**: Low-level C++ tool exploring Windows APC process injection |
-| 💳 [flutter-fintech-wallet-ui](https://github.com/Huzam003/flutter-fintech-wallet-ui) | **Mobile**: Premium, high-fidelity digital wallet mockup built with Flutter |
-| 🧩 [digital-escape-room](https://github.com/Huzam003/digital-escape-room) | **OOP**: Interactive escape room challenge project built with object-oriented design |
+| [EDR-System](https://github.com/Huzam003/Endpoint-Detection-and-Response-System) | **Defensive**: Windows EDR using C++ (Graphs/BFS) and Python analytics |
+| [APC-Injection](https://github.com/Huzam003/APC-Process-Injection-Tool) | **Exploitation**: Low-level C++ tool exploring Windows APC process injection |
+| [mesh-chat-system](https://github.com/Huzam003/mesh-chat-system) | **Cryptography**: RSA-2048 E2EE decentralized messenger with mesh routing |
+
+### 💳 Fintech & Full-Stack
+| Project | Description |
+| :--- | :--- |
+| [STORE-APP](https://github.com/Huzam003/STORE-APP) | **Merchant Management**: Premium Flutter B2B platform with KYC scanning & OCR |
+| [Dynamic-Capital](https://github.com/Huzam003/trading-platform) | **Trading Platform**: Full-stack Next.js 15, Prisma, and Neon DB integration |
+| [flutter-fintech-wallet-ui](https://github.com/Huzam003/flutter-fintech-wallet-ui) | **Mobile**: High-fidelity digital wallet mockup built with Flutter |
+| [digital-escape-room](https://github.com/Huzam003/digital-escape-room) | **OOP**: Interactive challenge project built with object-oriented design |
 
 ---
 
@@ -51,11 +56,11 @@ I'm a **Cyber Security Student (BS-CYS, 4th Semester)** focused on offensive sec
 
 <div align="center">
 
-![Huzam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Huzam003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Huzam003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Huzam003&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Huzam003&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Huzam003&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Huzam003&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 </div>
 
