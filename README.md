@@ -11,7 +11,7 @@
 
 ---
 
-## 🧑‍💻 Professional Overview
+## 🧑💻 Professional Overview
 
 I'm a **Cyber Security Student (BS-CYS, 4th Semester)** focused on offensive security, defensive engineering, and low-level system internals. I specialize in bridging the gap between high-level application development and low-level system exploitation.
 
@@ -26,6 +26,7 @@ I'm a **Cyber Security Student (BS-CYS, 4th Semester)** focused on offensive sec
 
 | Project | Description |
 | :--- | :--- |
+| 🏬 [STORE-APP](https://github.com/Huzam003/STORE-APP) | **Fintech B2B**: Premium Flutter-based Merchant Management & Payout platform with KYC & OCR |
 | 📈 [Dynamic-Capital](https://github.com/Huzam003/trading-platform) | **Trading Platform**: Full-stack engineering with Next.js 15, Prisma, and Neon DB |
 | 🛡️ [EDR-System](https://github.com/Huzam003/Endpoint-Detection-and-Response-System) | **Defensive**: Windows EDR using C++ (Graphs/BFS) and Python analytics |
 | 📡 [mesh-chat-system](https://github.com/Huzam003/mesh-chat-system) | **Cryptography**: RSA-2048 E2EE decentralized messenger with mesh routing |
