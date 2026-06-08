@@ -1,11 +1,11 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Huzaifah+%F0%9F%91%8B;Cyber+Security+Student;EDR+System+Builder;Low-level+Security+Researcher;Penetration+Tester+in+Training)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Huzaifah+%F0%9F%91%8B;Cyber+Security+Student;Kernel+%26+Systems+Researcher;EDR+Developer;Penetration+Tester+in+Training)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Huzam003&color=00f7ff&style=flat)
 
 <!-- Curated Security Core -->
-<img src="https://skillicons.dev/icons?i=cpp,py,linux,bash,git,docker,nextjs,flutter" />
+<img src="https://skillicons.dev/icons?i=cpp,c,py,linux,bash,git,docker,postgres" />
 
 </div>
 
@@ -13,33 +13,44 @@
 
 ## 🧑‍💻 Professional Overview
 
-I'm a **Cyber Security Student (BS-CYS, 4th Semester)** focused on offensive security, defensive engineering, and low-level system internals. I specialize in bridging the gap between high-level application development and low-level system exploitation.
+I'm a **Cyber Security Student (BS-CYS, 4th Semester)** specializing in low-level systems internals, OS security, and applied cryptography. I focus on developing defensive security systems at Ring 3 and Ring 0, and understanding vulnerabilities by writing custom exploits.
 
-- 🛡️ **Focus**: Offensive Security, Windows Internals, and EDR Development
-- 🌱 **Currently Deep-Diving**: Windows Kernel Debugging (WinDbg) & Memory Forensics
+- 🛡️ **Primary Focus**: Windows/Linux Kernel Internals, EDR Development, & Systems Security
+- 🌱 **Currently Deep-Diving**: Windows Kernel Debugging (WinDbg), Linux scheduler design, and memory forensics
 - 🧪 **Active Hacking**: Ranked on [TryHackMe](https://tryhackme.com/p/huzam003)
-- 🔭 **Core Project**: Architecting a **Behavioral EDR System** at the process internal level
+- 🔭 **Active Research**: Kernel-level thread scheduling security and endpoint monitoring behaviors
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛡️ Cyber Security & Low-Level
+### 🐧 Low-Level, Kernel & Systems Security
 
-| Project | Description |
-| :--- | :--- |
-| [EDR-System](https://github.com/Huzam003/Endpoint-Detection-and-Response-System) | **Defensive**: Windows EDR using C++ (Graphs/BFS) and Python analytics |
-| [APC-Injection](https://github.com/Huzam003/APC-Process-Injection-Tool) | **Exploitation**: Low-level C++ tool exploring Windows APC process injection |
-| [mesh-chat-system](https://github.com/Huzam003/mesh-chat-system) | **Cryptography**: RSA-2048 E2EE decentralized messenger with mesh routing |
+| Project | Target | Description |
+| :--- | :--- | :--- |
+| [EDR-System](https://github.com/Huzam003/Endpoint-Detection-and-Response-System) | **Windows (Ring 3)** | Windows endpoint monitoring engine using C++ (graph representation/BFS analytics) and Python backend detection logic. |
+| [AWRR-Scheduler](https://github.com/Huzam003/AWRR-Scheduler) | **Linux (Ring 0)** | Custom Linux scheduler class (`SCHED_AWRR`) in Kernel 6.1 featuring timing side-channel jittering, dynamic EWMA priority smoothing, and behavioral anti-gaming penalties. |
+| [APC-Injection](https://github.com/Huzam003/APC-Process-Injection-Tool) | **Windows (Ring 3)** | Low-level execution tool exploring asynchronous procedure call (APC) process injection mechanisms. |
 
-### 💳 Fintech & Full-Stack
+### 🔑 Cryptography & Decentralized Systems
 
-| Project | Description |
-| :--- | :--- |
-| [STORE-APP](https://github.com/Huzam003/STORE-APP) | **Merchant Management**: Premium Flutter B2B platform with KYC scanning & OCR |
-| [Dynamic-Capital](https://github.com/Huzam003/trading-platform) | **Trading Platform**: Full-stack Next.js 15, Prisma, and Neon DB integration |
-| [flutter-fintech-wallet-ui](https://github.com/Huzam003/flutter-fintech-wallet-ui) | **Mobile**: High-fidelity digital wallet mockup built with Flutter |
-| [digital-escape-room](https://github.com/Huzam003/digital-escape-room) | **OOP**: Interactive challenge project built with object-oriented design |
+| Project | Type | Description |
+| :--- | :--- | :--- |
+| [Blockchain-AI-Fraud-System](https://github.com/Huzam003/Blockchain-AI-Fraud-System) | **Web3 & AI** | A functional multi-node blockchain with ECDSA SECP256K1 signed transactions, database persistence, and Isolation Forest ML anomaly detection with explainable Z-scores. |
+| [mesh-chat-system](https://github.com/Huzam003/mesh-chat-system) | **Networking** | Decentralized, peer-to-peer messaging network featuring RSA-2048 end-to-end encryption (E2EE) and hop-based mesh routing. |
+
+<details>
+<summary><b>💼 View Web Development & Fintech Projects</b></summary>
+<br>
+
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| [Dynamic-Capital](https://github.com/Huzam003/trading-platform) | Next.js 15, Neon PostgreSQL | Full-stack financial platform with trading simulator and real-time updates. |
+| [STORE-APP](https://github.com/Huzam003/STORE-APP) | Flutter, Python OCR | Merchant management B2B application featuring OCR invoice scanning and KYC checks. |
+| [flutter-fintech-wallet-ui](https://github.com/Huzam003/flutter-fintech-wallet-ui) | Flutter | High-fidelity digital wallet and dashboard user interface mockup. |
+| [digital-escape-room](https://github.com/Huzam003/digital-escape-room) | OOP (Java/C++) | Interactive puzzle challenge exploring complex object-oriented design patterns. |
+
+</details>
 
 ---
 
@@ -47,10 +58,9 @@ I'm a **Cyber Security Student (BS-CYS, 4th Semester)** focused on offensive sec
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
-| **Security Core** | ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white) |
-| **Offensive** | ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kalilinux&logoColor=white) ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?logo=burpsuite&logoColor=white) ![Nmap](https://img.shields.io/badge/-Nmap-004170?logoColor=white) ![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?logoColor=white) |
-| **Engineering** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white) |
-| **System** | ![WinAPI](https://img.shields.io/badge/-WinAPI-0078D4?logoColor=white) ![Memory Forensics](https://img.shields.io/badge/-Memory_Forensics-B22222?logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
+| **Languages** | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white) |
+| **System Internals** | ![Linux Kernel](https://img.shields.io/badge/-Linux_Kernel-FCC624?logo=linux&logoColor=black) ![WinAPI](https://img.shields.io/badge/-WinAPI-0078D4?logo=windows&logoColor=white) ![Memory Forensics](https://img.shields.io/badge/-Memory_Forensics-B22222?logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
+| **Offensive Security** | ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kalilinux&logoColor=white) ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?logo=burpsuite&logoColor=white) ![Nmap](https://img.shields.io/badge/-Nmap-004170?logoColor=white) ![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?logoColor=white) |
 
 ---
 
